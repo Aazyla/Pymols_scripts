@@ -1,2 +1,2 @@
 # Pymols_scripts
-useful and useless symbols wraps
+useful and useless pymols wraps
